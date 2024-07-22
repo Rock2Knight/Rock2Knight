@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 ## - 👯 I’m looking to collaborate on honest and purposeful people
 ## - 💬 Ask me about C++, Python, Matplotlib, Pandas
 ## - 📫 How to reach me: f.merten@mail.ru Telegram: @SnowyFenix Discord: ilshat6438
-## - ⚡ Fun fact: I like to play on guitar
+<h3 align="left"> - ⚡ Fun fact: I like to play on guitar</h3>
 
 <h3 align="left">Main stack:</h3>
 <p align="left">
