@@ -1,15 +1,10 @@
 ## Hello! I'm Rock2Knight 👋
 
-## <!--
-## **Rock2Knight/Rock2Knight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-## - 🔭 I’m currently working on InvestBot
-## - 🌱 I’m currently learning Django, Golang, HTML, CSS, JS
-## - 👯 I’m looking to collaborate on honest and purposeful people
-## - 💬 Ask me about C++, Python, Matplotlib, Pandas
-## - 📫 How to reach me: f.merten@mail.ru Telegram: @SnowyFenix Discord: ilshat6438
+<h3 align="left"> - 🔭 I’m currently working on InvestBot</h3>
+<h3 align="left"> - 🌱 I’m currently learning Django, Golang, HTML, CSS, JS</h3>
+<h3 align="left"> - 👯 I’m looking to collaborate on honest and purposeful people</h3>
+<h3 align="left"> - 💬 Ask me about C++, Python, Matplotlib, Pandas</h3>
+<h3 align="left"> - 📫 How to reach me: f.merten@mail.ru Telegram: @SnowyFenix Discord: ilshat6438</h3>
 <h3 align="left"> - ⚡ Fun fact: I like to play on guitar</h3>
 
 <h3 align="left">Main stack:</h3>
